@@ -16,10 +16,5 @@ My Android and Flutter Apps
   
   
   
-   <tr>
-    
-    
-    <td>Project 2 > Android Delivery boy for the resturant</td>
-    
-  </tr>
+  
 </table>
