@@ -5,7 +5,7 @@ My Android and Flutter Apps
   <tr>
     
     
-    <td>Project 1 > Android Delivery boy for the resturant</td>
+    Project 1 > Android Delivery boy for the resturant
     
   </tr>
   <tr>
